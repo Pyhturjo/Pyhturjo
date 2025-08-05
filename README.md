@@ -1,6 +1,6 @@
-# 👋 Hey there, I'm Turjo Sarker!
+# 👋 Hey there, I'm Pial Sarker Turjo!
 
-🎓 Recent Computer Science Graduate | 💻 Aspiring Full Stack Developer & Python Engineer  
+🎓 Recent Computer Science Graduate | 💻 Aspiring Full Stack Developer
 🌍 Based in Bangladesh | 📚 Lifelong Learner | 🚀 Beginner with Big Dreams
 
 ---
@@ -39,9 +39,6 @@
 
 - 🌐 Building beginner-friendly full-stack projects
 - 🔄 Practicing DSA regularly to improve problem-solving
-- 📄 Writing a research paper: *"AI-driven Code Review Tools for Improving Software Quality"*
-- 🎤 Preparing for my upcoming **IELTS exam** in September 2025
-
 ---
 
 ## 💼 Career Goals
@@ -56,7 +53,7 @@
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/turjosarker) *(coming soon or update link)*
-- 📧 Email: turjosarker@gmail.com
+- 📧 Email: turjosarker1999@gmail.com
 - 🌐 Portfolio: *coming soon...*
 
 ---
