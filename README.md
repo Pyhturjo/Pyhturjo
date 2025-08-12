@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/abcd123.png" alt="Pial Sarker Turjo Avatar" width="200" />
+  <img src="https://ibb.co.com/Hfd8bHqv.png" alt="Pial Sarker Turjo Avatar" width="200" />
 </p>
 
 # 👋 Hey there, I'm **Pial Sarker Turjo**  
