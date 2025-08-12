@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="A_vector-style_digital_illustration_features_a_sty.png" alt="Pial Sarker Turjo Avatar" width="200" />
+  <img src="<p align="center">
+  <img src="https://raw.githubusercontent.com/turjosarker/turjosarker/main/avatar.png" alt="Pial Sarker Turjo Avatar" width="200" />
+</p>" alt="Pial Sarker Turjo Avatar" width="200" />
 </p>
 
 # 👋 Hey there, I'm **Pial Sarker Turjo**  
