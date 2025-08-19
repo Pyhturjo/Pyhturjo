@@ -1,5 +1,6 @@
-<p align="center">
-  <img src="https://www.peakpx.com/en/hd-wallpaper-desktop-oiaau" alt="Pial Sarker Turjo" width="200" style="border-radius:50%;" />
+<img width="800" height="613" alt="image" src="https://github.com/user-attachments/assets/a0a2ffbc-9b2b-487a-b5f5-b137e706de76" /><p align="center">
+  <img src="<img width="800" height="613" alt="image" src="https://github.com/user-attachments/assets/aa746b9d-c73d-4f41-bb0c-c1225094d6de" />
+" alt="Pial Sarker Turjo" width="200" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">👋 Hey there, I'm <b>Pial Sarker Turjo</b></h1>
