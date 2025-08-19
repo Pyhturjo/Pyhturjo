@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="<img width="80" height="63" alt="image" src="https://github.com/user-attachments/assets/aa746b9d-c73d-4f41-bb0c-c1225094d6de" />
-" alt="Pial Sarker Turjo" width="200" style="border-radius:50%;" />
+  <img src="https://i.ibb.co/AbCdEf1/avatar.png" alt="Pial Sarker Turjo" width="200" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">👋 Hey there, I'm <b>Pial Sarker Turjo</b></h1>
@@ -24,7 +23,7 @@
 
 ---
 
-## 🛠 My Tech Stack  
+## 🛠 Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,c,react,nodejs,express,mongodb,git,github,bootstrap,tailwind,figma,netlify,postman,vscode" />
@@ -35,12 +34,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=turjosarker&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turjosarker&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=turjosarker&show_icons=true&theme=radical&count_private=true&hide_border=false" alt="GitHub Stats" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turjosarker&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turjosarker&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turjosarker&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
@@ -50,6 +49,7 @@
 - 🌐 Building beginner-friendly full-stack projects  
 - 🔄 Practicing DSA to sharpen problem-solving  
 - 📚 Learning **open-source contributions**  
+- 💡 Exploring **Python automation & APIs**  
 
 ---
 
@@ -59,6 +59,27 @@
 - 💡 Contribute to **open-source projects**  
 - 🌍 Work on **real client-based web apps**  
 - 📈 Grow as a **developer & team player**  
+
+---
+
+## 🏆 Achievements & Badges  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Bugs%20Fixed-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Projects-Completed-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Contributor-Open%20Source-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Passionate-Learner-red?style=for-the-badge&logo=read-the-docs" />
+</p>
+
+---
+
+## 📂 Featured Projects  
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Project1-Portfolio%20Website-brightgreen?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Project2-Ecommerce%20App-blue?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Project3-Blog%20Platform-orange?style=for-the-badge"/></a>
+</p>
 
 ---
 
@@ -79,6 +100,12 @@
 
 ---
 
+## 👀 Visitors  
+
 <p align="center">
-  ⭐ Thanks for visiting! Explore my repos, suggest improvements, or just say hi! ⭐
+  <img src="https://profile-counter.glitch.me/turjosarker/count.svg" />
 </p>
+
+---
+
+<p align="center">⭐ Thanks for visiting! Explore my repos, suggest improvements, or just say hi! ⭐</p>
