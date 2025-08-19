@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/AbCdEf1/avatar.png" alt="Pial Sarker Turjo" width="200" style="border-radius:50%;" />
+  <img src="https://www.peakpx.com/en/hd-wallpaper-desktop-oiaau" alt="Pial Sarker Turjo" width="200" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">👋 Hey there, I'm <b>Pial Sarker Turjo</b></h1>
