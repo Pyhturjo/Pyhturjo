@@ -18,7 +18,7 @@
   - 🐍 **Python** (backend & automation)  
   - 📊 **Data Structures & Algorithms (Python)**  
 - 🛠 I learn by **building projects, breaking things, fixing them**.  
-- 🎯 Career goal: **Join PwC, Deloitte, IBM, or Accenture** as a developer.  
+- 🎯 Career goal: **Work in a good company** as a developer.  
 - ✨ Open to collaboration, mentorship & exciting opportunities.  
 
 ---
