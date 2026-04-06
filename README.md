@@ -1,136 +1,132 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pial%20Sarker%20Turjo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Dev%20%7C%20MERN%20%7C%20AI%20Explorer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pial%20Sarker%20Turjo&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=quietly%20building%20great%20things.&descAlignY=58&descSize=20&descColor=adbac7"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2800&pause=1000&color=FF6EC7&center=true&vCenter=true&width=650&lines=Building+the+web%2C+one+component+at+a+time+%E2%9A%A1;Python+%2B+DSA+%3D+my+daily+meditation+%F0%9F%A7%98;Dipping+toes+into+AI%2FML+%F0%9F%A4%96%F0%9F%8C%B1;Open+to+cool+opportunities+%F0%9F%91%80;I+fix+bugs+before+breakfast+%F0%9F%90%9B)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/turjosarker)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:turjosarker1999@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6EC7.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=turjosarker&color=FF6EC7&style=for-the-badge&label=Visitors)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2600&pause=900&color=FF6EC7&center=true&vCenter=true&width=680&lines=MERN+Stack+%7C+Python+%7C+DSA+%7C+AI%2FML+explorer;still+awake.+still+coding.+%F0%9F%8C%99;one+commit+closer+every+day.;open+to+cool+opportunities+%F0%9F%91%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-## 🧑‍💻 The Dev Behind the Screen
+## 🧑‍💻 About
 
-```javascript
+```js
 const turjo = {
-  name:     "Pial Sarker Turjo",
-  based_in: "Bangladesh 🇧🇩",
-  degree:   "B.Tech CS — Class of 2025 🎓",
+  name     : "Pial Sarker Turjo",
+  location : "Bangladesh 🇧🇩",
+  edu      : "B.Tech CS — 2025 🎓",
+  status   : "open to opportunities 👀",
 
-  currently: "Open to opportunities 👀",
-
-  obsessions: [
-    "MERN Stack architecture",
-    "Solving DSA problems in Python",
-    "Peeking into AI/ML 🌱",
+  building : [
+    "Full stack apps (MERN)",
+    "DSA solutions in Python",
+    "tiny AI/ML experiments 🌱",
   ],
 
-  principles: [
-    "Build → Break → Fix → Repeat",
-    "Ship something, polish later",
-    "Progress > Perfection",
-  ],
-
-  reachable: true,
-  coffeeDependent: true,  // not optional
+  motto: "ship it. learn from it. rebuild it.",
+  online: true,
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" align="center" valign="middle">
+
+```
+ ╔══════════════════════════╗
+ ║  💻  currently at desk   ║
+ ║  🎧  headphones on       ║
+ ║  ☕  coffee: full        ║
+ ║  🐛  bugs: being fixed   ║
+ ║  📦  commits: shipping   ║
+ ╚══════════════════════════╝
+```
+
+> *"The best way to predict the future*
+> *is to build it."*
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎨 Tech Palette
+## 🔥 What I'm Working On
+
+```
+▸  Building MERN stack projects from scratch ················· active
+▸  Grinding DSA problems in Python daily ···················· active
+▸  Exploring AI / ML fundamentals ··························· just started 🌱
+▸  Reading source code of open-source projects ·············· ongoing
+▸  Turning ideas into deployed apps ························· always
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend & DB**
+**Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Languages & Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 **Exploring 🌱**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub at a Glance
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=turjosarker&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6EC7&icon_color=FF6EC7&text_color=c9d1d9" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turjosarker&theme=radical&hide_border=true&background=0d1117&stroke=FF6EC7&ring=FF6EC7&fire=FFD700&currStreakLabel=FF6EC7" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=turjosarker&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6EC7&icon_color=FF6EC7&text_color=adbac7" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turjosarker&theme=radical&hide_border=true&background=0d1117&stroke=FF6EC7&ring=FF6EC7&fire=FFD700&currStreakLabel=FF6EC7&sideLabels=adbac7&dates=adbac7" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turjosarker&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6EC7&text_color=c9d1d9&langs_count=8" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turjosarker&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6EC7&text_color=adbac7&langs_count=8" height="150"/>
 </div>
 
 ---
 
 ## 🚀 Projects
 
-> 🔨 *Projects coming soon — currently building in public. Watch this space!*
+> 🔨 Actively building. Links dropping soon — watch the repos.
 
-| # | Project | Stack | Link |
-|---|---------|-------|------|
-| 01 | 🌐 Portfolio Website | HTML · CSS · JS | 🔗 Soon |
-| 02 | 🛒 Ecommerce App | MERN | 🔗 Soon |
-| 03 | ✍️ Blog Platform | MERN + Auth | 🔗 Soon |
-| 04 | 🧮 DSA Practice | Python | 🔗 Soon |
-
----
-
-## 🧠 Current Learning Arc
-
-```
-MERN Stack        ████████████████░░  85%  🔥
-DSA in Python     ██████████████░░░░  70%  📈
-REST APIs         ████████████░░░░░░  60%  🔧
-AI / ML Basics    ████░░░░░░░░░░░░░░  20%  🌱  ← just getting started
-Open Source       ██░░░░░░░░░░░░░░░░  10%  👀  ← soon
-```
-
----
-
-## 🎧 Vibing To
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=FF6EC7)](https://open.spotify.com/user/turjosarker)
-
-</div>
+| # | Project | Stack | Status |
+|---|---------|-------|--------|
+| 01 | 🌐 Portfolio Website | HTML · CSS · JS | 🔗 coming soon |
+| 02 | 🛒 Ecommerce App | MongoDB · Express · React · Node | 🔗 coming soon |
+| 03 | ✍️ Blog Platform | MERN + Auth | 🔗 coming soon |
+| 04 | 🧮 DSA Practice Vault | Python | 🔗 coming soon |
 
 ---
 
@@ -144,8 +140,35 @@ Open Source       ██░░░░░░░░░░░░░░░░  10%  �
 
 ---
 
+## 🧠 Skill Progress
+
+```
+MERN Stack        ████████████████░░░  82%  🔥
+DSA in Python     ██████████████░░░░░  70%  📈
+REST APIs         ████████████░░░░░░░  62%  🔧
+System Design     ██████░░░░░░░░░░░░░  30%  📖
+AI / ML Basics    ████░░░░░░░░░░░░░░░  18%  🌱
+Open Source       ██░░░░░░░░░░░░░░░░░  10%  👀
+```
+
+---
+
+## 📫 Connect
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's+build+something+awesome!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/turjosarker)
+[![Gmail](https://img.shields.io/badge/Gmail-drop%20a%20line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:turjosarker1999@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-coming%20soon-FF6EC7?style=for-the-badge&logo=firefox&logoColor=white)](#)
+
+![Visitors](https://komarev.com/ghpvc/?username=turjosarker&color=FF6EC7&style=flat-square&label=profile+views)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=still+building.+always+learning.&fontSize=22&fontColor=adbac7&animation=twinkling&fontAlignY=65"/>
 
 </div>
